@@ -1,4 +1,4 @@
-![](https://shonharsh.github.io/curriculum-vitae/images/uipath-logo.png)
+![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
 
 # S03P04 Dictionaries & Doubles
 
@@ -34,7 +34,7 @@ New Dictionary(Of String, Dictionary(Of String, Double)) From {
 
 **Section:** 03 Data Manipulation
 
-**Practice:** 03 Dictionaries & Integers
+**Practice:** 04 Dictionaries & Doubles
 
 **Project Format:** Windows, VB
 
